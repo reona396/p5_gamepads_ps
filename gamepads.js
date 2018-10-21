@@ -27,7 +27,7 @@ var buttonNames = [
 ];
 
 function setup() {
-  createCanvas(1000, 450);
+  createCanvas(800, 450);
   strokeJoin(ROUND);
   textAlign(CENTER, CENTER);
 
